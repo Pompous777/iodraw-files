@@ -49,8 +49,14 @@
         <mxCell id="zfLpvTBgly8UrF255Swa-19" value="达到清洗触发阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="330" width="166" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zfLpvTBgly8UrF255Swa-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-22" target="zfLpvTBgly8UrF255Swa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-22" value="作业环境满足安全阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="460" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zfLpvTBgly8UrF255Swa-24" value="工单挂起并进入待执行队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590.5" y="455" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
