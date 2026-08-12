@@ -52,14 +52,8 @@
         <mxCell id="zfLpvTBgly8UrF255Swa-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-22" target="zfLpvTBgly8UrF255Swa-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfLpvTBgly8UrF255Swa-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zfLpvTBgly8UrF255Swa-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404.5" y="438" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="405" y="485.5" />
-              <mxPoint x="160" y="485.5" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="NXOmwNjk6kprf6sYmuNc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-22" target="zfLpvTBgly8UrF255Swa-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-22" value="作业环境满足安全阈值？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="412.5" width="166" height="50" as="geometry" />
