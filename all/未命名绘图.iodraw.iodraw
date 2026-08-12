@@ -74,34 +74,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-28" value="生成清洗工单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="515.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="57" y="515.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-31" target="zfLpvTBgly8UrF255Swa-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-31" value="匹配目标阵列&lt;div&gt;与清洗范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="515.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="173.5" y="515.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-33" target="zfLpvTBgly8UrF255Swa-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-33" value="下发机器人调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="345" y="515.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="292" y="515.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-35" target="zfLpvTBgly8UrF255Swa-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-35" value="执行起飞/跨排/降落及板面清洗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="465" y="515.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="412" y="515.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-37" target="zfLpvTBgly8UrF255Swa-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-37" value="实时回传&lt;div&gt;进度与异常&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="585" y="515.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="532" y="515.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-39" value="清洗前后效率验证&lt;div&gt;并完成归档&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="705" y="515.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="652" y="515.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-42" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="328" width="40" height="30" as="geometry" />
