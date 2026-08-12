@@ -153,16 +153,16 @@
           <mxGeometry x="120" y="190" width="560" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-12" value="匹配可用原料批次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="167.5" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-13" value="筛选符合工艺条件的窖池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="230" width="135" height="30" as="geometry" />
+          <mxGeometry x="277.5" y="230" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-14" value="匹配可用原料批次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="422.5" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-15" value="匹配可用原料批次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="532.5" y="230" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
