@@ -224,7 +224,7 @@
         <mxCell id="NzmLeimdbSOmCqj5YE5t-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="490" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzmLeimdbSOmCqj5YE5t-33" value="排产与调度依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NzmLeimdbSOmCqj5YE5t-33" value="收购入池任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-36" value="收购入池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
