@@ -53,7 +53,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-22" target="zfLpvTBgly8UrF255Swa-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="510" />
+              <mxPoint x="160" y="510" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-22" value="作业环境满足安全阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="412.5" width="166" height="50" as="geometry" />
@@ -73,7 +78,7 @@
         <mxCell id="zfLpvTBgly8UrF255Swa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-31" target="zfLpvTBgly8UrF255Swa-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfLpvTBgly8UrF255Swa-31" value="生成清洗工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zfLpvTBgly8UrF255Swa-31" value="匹配目标阵列&lt;div&gt;与清洗范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226.5" y="540" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-33" target="zfLpvTBgly8UrF255Swa-35">
