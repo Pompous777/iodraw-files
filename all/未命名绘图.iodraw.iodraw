@@ -221,7 +221,7 @@
         <mxCell id="NzmLeimdbSOmCqj5YE5t-31" value="AGV转运" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzmLeimdbSOmCqj5YE5t-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NzmLeimdbSOmCqj5YE5t-32" value="4个接料口供料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="490" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-33" value="收购入池任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
