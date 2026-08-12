@@ -61,14 +61,20 @@
         <mxCell id="zfLpvTBgly8UrF255Swa-26" value="清洗作业闭环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="480" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zfLpvTBgly8UrF255Swa-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-28" target="zfLpvTBgly8UrF255Swa-29">
+        <mxCell id="zfLpvTBgly8UrF255Swa-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-28" target="zfLpvTBgly8UrF255Swa-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-28" value="生成清洗工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="530" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zfLpvTBgly8UrF255Swa-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="522.5" width="120" height="60" as="geometry" />
+        <mxCell id="zfLpvTBgly8UrF255Swa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-31" target="zfLpvTBgly8UrF255Swa-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfLpvTBgly8UrF255Swa-31" value="生成清洗工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zfLpvTBgly8UrF255Swa-33" value="生成清洗工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
