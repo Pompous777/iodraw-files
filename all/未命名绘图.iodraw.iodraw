@@ -131,9 +131,6 @@
         <mxCell id="NzmLeimdbSOmCqj5YE5t-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;生产需求&lt;/font&gt;&lt;/b&gt;&lt;div&gt;生产MES工单&lt;/div&gt;&lt;div&gt;4条产线原料需求&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NzmLeimdbSOmCqj5YE5t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NzmLeimdbSOmCqj5YE5t-7" target="NzmLeimdbSOmCqj5YE5t-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;窖池与库存&lt;/font&gt;&lt;/b&gt;&lt;div&gt;原料类型/库存量&lt;/div&gt;&lt;div&gt;腌制时长/当前状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="90" width="120" height="60" as="geometry" />
         </mxCell>
