@@ -233,6 +233,9 @@
         <mxCell id="NzmLeimdbSOmCqj5YE5t-38" value="生产供料任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="460" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="NzmLeimdbSOmCqj5YE5t-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
