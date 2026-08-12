@@ -90,7 +90,7 @@
         <mxCell id="zfLpvTBgly8UrF255Swa-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-35" target="zfLpvTBgly8UrF255Swa-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfLpvTBgly8UrF255Swa-35" value="生成清洗工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zfLpvTBgly8UrF255Swa-35" value="执行起飞/跨排/降落及板面清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="540" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-37" target="zfLpvTBgly8UrF255Swa-39">
