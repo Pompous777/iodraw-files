@@ -19,6 +19,9 @@
         <mxCell id="zfLpvTBgly8UrF255Swa-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;机器人资源状态&lt;/font&gt;&lt;/b&gt;&lt;div&gt;在线状态/电量&lt;/div&gt;&lt;div&gt;定位/通信&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zfLpvTBgly8UrF255Swa-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
