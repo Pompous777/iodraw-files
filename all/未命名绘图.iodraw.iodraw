@@ -53,7 +53,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NXOmwNjk6kprf6sYmuNc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfLpvTBgly8UrF255Swa-22" target="zfLpvTBgly8UrF255Swa-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="490" />
+              <mxPoint x="107" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-22" value="作业环境满足安全阈值？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="412.5" width="166" height="50" as="geometry" />
@@ -107,7 +112,7 @@
           <mxGeometry x="500" y="408" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zfLpvTBgly8UrF255Swa-45" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="455.5" width="40" height="30" as="geometry" />
+          <mxGeometry x="260" y="464.5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
