@@ -125,7 +125,7 @@
         <mxCell id="NzmLeimdbSOmCqj5YE5t-2" value="排产与调度依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NzmLeimdbSOmCqj5YE5t-3" value="生产需求&lt;div&gt;生产MES工单&lt;/div&gt;&lt;div&gt;4条产线原料需求&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NzmLeimdbSOmCqj5YE5t-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;生产需求&lt;/font&gt;&lt;/b&gt;&lt;div&gt;生产MES工单&lt;/div&gt;&lt;div&gt;4条产线原料需求&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NzmLeimdbSOmCqj5YE5t-7" value="窖池与库存&lt;div&gt;原料类型/库存量&lt;/div&gt;&lt;div&gt;腌制时长/当前状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
